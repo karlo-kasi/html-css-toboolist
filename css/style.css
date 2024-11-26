@@ -88,8 +88,25 @@ div {
 
 
 span {
-    
+
     display: inline-block;
     vertical-align: middle;
     
+    
+}
+
+.margin-top {
+
+    margin-top: 20px;
+
+}
+
+.circle1 {
+    width: 25px;
+    height: 25px;
+    border: 1px solid green;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 1;
+    color: green;
 }
