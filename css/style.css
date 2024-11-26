@@ -110,3 +110,14 @@ span {
     line-height: 1;
     color: green;
 }
+
+.circle2 {
+
+    width: 25px;
+    height: 25px;
+    border: 1px solid red;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 1;
+    color: red;
+}
