@@ -121,3 +121,15 @@ span {
     line-height: 1;
     color: red;
 }
+
+.button-editorial {
+
+     padding: 5px 10px;
+     text-align: center;
+     border: 1px solid #46ADF1;
+     color: #F6F8F9;
+     border-radius: 10%;
+     background-color: #46ADF1;
+
+
+}
